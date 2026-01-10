@@ -1,0 +1,22 @@
+# Rime schema
+# encoding: utf-8
+
+patch:
+  switches:
+    - name: ascii_punct
+      states: [中文标点, 英文标点]
+  pin_cand_filter:
+    - l	了
+    - d	的
+    - m	吗 嘛 
+    - hm	后面
+  engine/translators/+:
+    - lua_translator@*mathcal
+    - lua_translator@*jap_input
+  recognizer/patterns/+:
+    mathcal: "^mM.+"
+    jap_input: "^jJ.+"
+  speller/algebra/+:
+    - derive/ing$/in/
+    - derive/in$/ing/
+  

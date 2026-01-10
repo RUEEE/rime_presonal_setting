@@ -1,0 +1,2116 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/iDvel/rime-ice
+# ------- 一些杂项，按需选择 -------
+#
+#
+---
+name: thd
+version: "2026-01-05"
+sort: by_weight
+...
+
+博丽灵梦	bo li ling meng	100
+雾雨魔理沙	wu yu mo li sha	100
+露米娅	lu mi ya	100
+大妖精	da yao jing	100
+琪露诺	qi lu nuo	100
+红美铃	hong mei ling	100
+小恶魔	xiao e mo	100
+帕秋莉	pa qiu li	100
+诺蕾姬	nuo lei ji	100
+帕秋莉·诺蕾姬	pa qiu li	100
+十六夜咲夜	shi liu ye xiao ye	100
+蕾米莉亚	lei mi li ya	100
+斯卡蕾特	si ka lei te	100
+蕾米莉亚·斯卡蕾特	lei mi li ya	100
+芙兰朵露	fu lan duo lu	100
+芙兰朵露·斯卡蕾特	fu lan duo lu	100
+蕾蒂	lei di	100
+霍瓦特洛克	huo wa te luo ke	100
+蕾蒂·霍瓦特洛克	lei di	100
+橙	cheng	100
+爱丽丝	ai li si	100
+玛格特洛依德	ma ge te luo yi de	100
+爱丽丝·玛格特洛依德	ai li si	100
+莉莉霍瓦特	li li huo wa te	100
+露娜萨	lu na sa	100
+普莉兹姆利巴	pu li zi mu li ba	100
+露娜萨·普莉兹姆利巴	lu na sa	100
+梅露兰	mei lu lan	100
+梅露兰·普莉兹姆利巴	mei lu lan	100
+莉莉卡	li li ka	100
+莉莉卡·普莉兹姆利巴	li li ka	100
+魂魄妖梦	hun po yao meng	100
+西行寺幽幽子	xi xing si you you zi	100
+八云蓝	ba yun lan	100
+八云紫	ba yun zi	100
+伊吹萃香	yi chui cui xiang	100
+莉格露	li ge lu	100
+奈特巴格	nai te ba ge	100
+莉格露·奈特巴格	li ge lu	100
+米斯蒂娅	mi si di ya	100
+萝蕾拉	luo lei la	100
+米斯蒂娅·萝蕾拉	mi si di ya	100
+上白泽慧音	shang bai ze hui yin	100
+因幡天为	yin fan tian wei	100
+铃仙	ling xian	100
+铃仙·优昙华院·因幡	ling xian	100
+八意永琳	ba yi yong lin	100
+蓬莱山辉夜	peng lai shan hui ye	100
+藤原妹红	teng yuan mei hong	100
+梅蒂欣	mei di xin	100
+梅兰可莉	mei lan ke li	100
+梅蒂欣·梅兰可莉	mei di xin	100
+风见幽香	feng jian you xiang	100
+小野塚小町	xiao ye zhong xiao ting	100
+四季映姬	si ji ying ji	100
+夜摩仙那度	ye mo xian na du	100
+四季映姬·夜摩仙那度	si ji ying ji	100
+秋静叶	qiu jing ye	100
+秋穰子	qiu rang zi	100
+键山雏	jian shan chu	100
+河城荷取	he cheng he qu	100
+犬走椛	quan zou hua	100
+东风谷早苗	dong feng gu zao miao	100
+八坂神奈子	ba ban shen nai zi	100
+洩矢诹访子	xie shi zou fang zi	100
+永江衣玖	yong jiang yi jiu	100
+比那名居天子	bi na ming ju tian zi	100
+琪斯美	qi si mei	100
+黑谷山女	hei gu shan nv	100
+水桥帕露西	shui qiao pa lu xi	100
+星熊勇仪	xing xiong yong yi	100
+古明地觉	gu ming di jue	100
+火焰猫燐	huo yan mao lin	100
+灵乌路空	ling wu lu kong	100
+古明地恋	gu ming di lian	100
+娜兹玲	na zi ling	100
+多多良小伞	duo duo liang xiao san	100
+云山	yun shan	100
+云居一轮	yun ju yi lun	100
+村纱水蜜	cun sha shui mi	100
+寅丸星	yin wan xing	100
+圣白莲	sheng bai lian	100
+封兽鵺	feng shou ye	100
+姬海棠果	ji hai tang guo	100
+幽谷响子	you gu xiang zi	100
+宫古芳香	gong gu fang xiang	100
+霍青娥	huo qing e	100
+苏我屠自古	su wo tu zi gu	100
+物部布都	wu bu bu dou	100
+丰聪耳神子	feng cong er shen zi	100
+二岩猯藏	er yan tuan cang	100
+秦心	qin xin	100
+若鹭姬	ruo lu ji	100
+赤蛮奇	chi man qi	100
+今泉影狼	jin quan ying lang	100
+九十九弁弁	jiu shi jiu bian bian	100
+九十九八桥	jiu shi jiu ba qiao	100
+鬼人正邪	gui ren zheng xie	100
+少名针妙丸	shao ming zhen miao wan	100
+堀川雷鼓	ku chuan lei gu	100
+宇佐见堇子	yu zuo jian jin zi	100
+清兰	qing lan	100
+铃瑚	ling hu	100
+哆来咪	duo lai mi	100
+苏伊特	su yi te	100
+哆来咪·苏伊特	duo lai mi	100
+稀神探女	xi shen tan nv	100
+克劳恩皮丝	ke lao en pi si	100
+纯狐	chun hu	100
+赫卡提亚	he ka ti ya	100
+拉碧斯拉祖利	la bi si la zu li	100
+赫卡提亚·拉碧斯拉祖利	he ka ti ya	100
+依神女苑	yi shen nv yuan	100
+依神紫苑	yi shen zi yuan	100
+爱塔妮缇拉尔瓦	ai ta ni ti la er wa	100
+坂田合欢	ban tian he huan	100
+高丽野阿吽	gao li ye a hong	100
+矢田寺成美	shi tian si cheng mei	100
+尔子田里乃	er zi tian li nai	100
+丁礼田舞	ding li tian wu	100
+摩多罗隐岐奈	mo duo luo yin qi nai	100
+戎璎花	rong ying hua	100
+牛崎润美	niu qi run mei	100
+庭渡久侘歌	ting du jiu cha ge	100
+吉吊八千慧	ji diao ba qian hui	100
+杖刀偶磨弓	zhang dao ou mo gong	100
+埴安神袿姬	zhi an shen gui ji	100
+骊驹早鬼	li ju zao gui	100
+饕餮尤魔	tao tie you mo	100
+豪德寺三花	hao de si san hua	100
+山城高岭	shan cheng gao ling	100
+驹草山如	ju cao shan ru	100
+玉造魅须丸	yu zao mei xu wan	100
+菅牧典	jian mu dian	100
+饭纲丸龙	fan gang wan long	100
+天弓千亦	tian gong qian yi	100
+姬虫百百世	ji chong bai bai shi	100
+孙美天	sun mei tian	100
+三头慧之子	san tou hui zhi zi	100
+天火人血枪	tian huo ren xue qiang	100
+豫母都日狭美	yu mu dou ri xia mei	100
+日白残无	ri bai can wu	100
+尘塚姥芽	chen zhong lao ya	100
+封兽魑魅	feng shou chi mei	100
+道神驯子	dao shen xun zi	100
+维缦	wei man	100
+浅间	qian jian	100
+维缦·浅间	wei man	100
+磐永阿梨夜	pan yong a li ye	100
+渡里贝子	du li bei zi	100
+渡里妮娜	du li ni na	100
+神玉	shen yu	100
+魅魔	mei mo	100
+菊理	ju li	100
+矜羯罗	jin jie luo	100
+幽幻魔眼	you huan mo yan	100
+依莉斯	yi li si	100
+萨丽爱尔	sa li ai er	100
+玄爷	xuan ye	100
+里香	li xiang	100
+明罗	ming luo	100
+爱莲	ai lian	100
+小兔姬	xiao tu ji	100
+卡娜	ka na	100
+安娜贝拉尔	an na bei la er	100
+卡娜·安娜贝拉尔	ka na	100
+朝仓理香子	chao cang li xiang zi	100
+北白河千百合	bei bai he qian bai he	100
+冈崎梦美	gang qi meng mei	100
+奥莲姬	ao lian ji	100
+胡桃	hu tao	100
+艾丽	ai li	100
+幽香	you xiang	100
+梦月	meng yue	100
+幻月	huan yue	100
+萨拉	sa la	100
+露易兹	lu yi zi	100
+雪	xue	100
+舞	wu	100
+梦子	meng zi	100
+神绮	shen qi	100
+森近霖之助	sen jin lin zhi zhu	100
+桑尼米尔克	sang ni mi er ke	100
+露娜切露德	lu na qie lu de	100
+斯塔萨菲雅	si ta sa fei ya	100
+射命丸文	she ming wan wen	100
+绵月丰姬	mian yue feng ji	100
+绵月依姬	mian yue yi ji	100
+稗田阿求	bai tian a qiu	100
+茨木华扇	ci mu hua shan	100
+本居小铃	ben ju xiao ling	100
+奥野田美宵	ao ye tian mei xiao	100
+宫出口瑞灵	gong chu kou rui ling	100
+宇佐见莲子	yu zuo jian lian zi	100
+玛艾露贝莉	ma ai lu bei li	100
+赫恩	he en	100
+玛艾露贝莉·赫恩	ma ai lu bei li	100
+东方灵异传	dong fang ling yi chuan	100
+东方封魔录	dong fang feng mo lu	100
+东方梦时空	dong fang meng shi kong	100
+东方幻想乡	dong fang huan xiang xiang	100
+东方怪绮谈	dong fang guai qi tan	100
+东方红魔乡	dong fang hong mo xiang	100
+东方妖妖梦	dong fang yao yao meng	100
+东方萃梦想	dong fang cui meng xiang	100
+东方永夜抄	dong fang yong ye chao	100
+东方花映塚	dong fang hua ying zhong	100
+东方风神录	dong fang feng shen lu	100
+东方地灵殿	dong fang di ling dian	100
+东方星莲船	dong fang xing lian chuan	100
+东方绯想天	dong fang fei xiang tian	100
+东方文花帖	dong fang wen hua tie	100
+东方心绮楼	dong fang xin qi lou	100
+东方神灵庙	dong fang shen ling miao	100
+东方辉针城	dong fang hui zhen cheng	100
+东方深秘录	dong fang shen mi lu	100
+东方绀珠传	dong fang gan zhu chuan	100
+东方凭依华	dong fang ping yi hua	100
+东方天空璋	dong fang tian kong zhang	100
+东方鬼形兽	dong fang gui xing shou	100
+东方刚欲异闻	dong fang gang yu yi wen	100
+东方虹龙洞	dong fang hong long dong	100
+东方兽王园	dong fang shou wang yuan	100
+东方锦上京	dong fang jin shang jing	100
+东方香霖堂	dong fang xiang lin tang	100
+东方儚月抄	dong fang meng yue chao	100
+东方求闻史纪	dong fang qiu wen shi ji	100
+东方茨歌仙	dong fang ci ge xian	100
+东方铃奈庵	dong fang ling nai an	100
+东方醉蝶华	dong fang zui die hua	100
+东方智灵奇传	dong fang zhi ling qi chuan	100
+东方三月精	dong fang san yue jing	100
+妖精大战争	yao jing da zhan zheng	100
+灵异传	ling yi chuan	100
+封魔录	feng mo lu	100
+梦时空	meng shi kong	100
+幻想乡	huan xiang xiang	100
+怪绮谈	guai qi tan	100
+红魔乡	hong mo xiang	100
+妖妖梦	yao yao meng	100
+萃梦想	cui meng xiang	100
+永夜抄	yong ye chao	100
+花映塚	hua ying zhong	100
+风神录	feng shen lu	100
+地灵殿	di ling dian	100
+星莲船	xing lian chuan	100
+绯想天	fei xiang tian	100
+文花帖	wen hua tie	100
+心绮楼	xin qi lou	100
+神灵庙	shen ling miao	100
+辉针城	hui zhen cheng	100
+深秘录	shen mi lu	100
+绀珠传	gan zhu chuan	100
+凭依华	ping yi hua	100
+天空璋	tian kong zhang	100
+鬼形兽	gui xing shou	100
+刚欲异闻	gang yu yi wen	100
+虹龙洞	hong long dong	100
+兽王园	shou wang yuan	100
+锦上京	jin shang jing	100
+香霖堂	xiang lin tang	100
+儚月抄	meng yue chao	100
+求闻史纪	qiu wen shi ji	100
+茨歌仙	ci ge xian	100
+铃奈庵	ling nai an	100
+醉蝶华	zui die hua	100
+智灵奇传	zhi ling qi chuan	100
+三月精	san yue jing	100
+大战争	da zhan zheng	100
+博丽	bo li	100
+灵梦	ling meng	100
+雾雨	wu yu	100
+魔理沙	mo li sha	100
+十六夜	shi liu ye	100
+咲夜	xiao ye	100
+莉莉白	li li bai	100
+丽丽黑	li li hei	100
+魂魄	hun po	100
+妖梦	yao meng	100
+西行寺	xi xing si	100
+幽幽子	you you zi	100
+八云	ba yun	100
+紫妈	zi ma	100
+伊吹	yi chui	100
+萃香	cui xiang	100
+上白泽	shang bai ze	100
+慧音	hui yin	100
+因幡	yin fan	100
+天为	tian wei	100
+因幡帝	yin fan di	100
+八意	ba yi	100
+永琳	yong lin	100
+蓬莱山	peng lai shan	100
+辉夜	hui ye	100
+藤原	teng yuan	100
+妹红	mei hong	100
+风见	feng jian	100
+小野塚	xiao ye zhong	100
+小町	xiao ting	100
+四季	si ji	100
+静叶	jing ye	100
+穰子	rang zi	100
+河城	he cheng	100
+荷取	he qu	100
+河童	he tong	100
+犬走	quan zou	100
+狗椛	gou hua	100
+东风谷	dong feng gu	100
+早苗	zao miao	100
+八坂	ba ban	100
+神奈子	shen nai zi	100
+洩矢	xie shi	100
+诹访子	zou fang zi	100
+永江	yong jiang	100
+衣玖	yi jiu	100
+比那名居	bi na ming ju	100
+天子	tian zi	100
+琪斯	qi si	100
+小桶	xiao tong	100
+黑谷	hei gu	100
+山女	shan nv	100
+水桥	shui qiao	100
+帕露西	pa lu xi	100
+星熊	xing xiong	100
+勇仪	yong yi	100
+火焰猫	huo yan mao	100
+阿燐	a lin	100
+灵乌路	ling wu lu	100
+阿空	a kong	100
+古明地	gu ming di	100
+娜兹	na zi	100
+多多良	duo duo liang	100
+恋恋	lian lian	100
+小伞	xiao san	100
+云居	yun ju	100
+一轮	yi lun	100
+村纱	cun sha	100
+水蜜	shui mi	100
+白莲	bai lian	100
+莲妈	lian ma	100
+封兽	feng shou	100
+姬海棠	ji hai tang	100
+姬海棠羽立	ji hai tang yu li	100
+幽谷	you gu	100
+响子	xiang zi	100
+宫古	gong gu	100
+芳香	fang xiang	100
+青娥	qing e	100
+苏我	su wo	100
+屠自古	tu zi gu	100
+物部	wu bu	100
+布都	bu dou	100
+布嘟嘟	bu du du	100
+丰聪耳	feng cong er	100
+神子	shen zi	100
+大狸子	da li zi	100
+猯藏	tuan cang	100
+若鹭	ruo lu	100
+人鱼	ren yu	100
+赤蛮	chi man	100
+飞头蛮	fei tou man	100
+今泉	jin quan	100
+影狼	ying lang	100
+九十九	jiu shi jiu	100
+弁弁	bian bian	100
+八桥	ba qiao	100
+鬼人	gui ren	100
+正邪	zheng xie	100
+少名	shao ming	100
+针妙丸	zhen miao wan	100
+小碗	xiao wan	100
+堀川	ku chuan	100
+雷鼓	lei gu	100
+宇佐见	yu zuo jian	100
+堇子	jin zi	100
+蓝兔	lan tu	100
+黄兔	huang tu	100
+稀神	xi shen	100
+探女	tan nv	100
+克劳恩	ke lao en	100
+皮丝	pi si	100
+依神	yi shen	100
+女苑	nv yuan	100
+紫苑	zi yuan	100
+拉尔瓦	la er wa	100
+大蛾子	da e zi	100
+合欢	he huan	100
+坂田	ban tian	100
+坂田合欢乃	ban tian he huan nai	100
+高丽野	gao li ye	100
+阿吽	a hong	100
+矢田寺	shi tian si	100
+成美	cheng mei	100
+尔子田	er zi tian	100
+里乃	li nai	100
+丁礼田	ding li tian	100
+摩多罗	mo duo luo	100
+隐岐奈	yin qi nai	100
+璎花	ying hua	100
+牛崎	niu qi	100
+润美	run mei	100
+庭渡	ting du	100
+久侘歌	jiu cha ge	100
+吉吊	ji diao	100
+八千慧	ba qian hui	100
+杖刀	zhang dao	100
+偶磨弓	ou mo gong	100
+埴安神	zhi an shen	100
+袿姬	gui ji	100
+骊驹	li ju	100
+早鬼	zao gui	100
+饕餮	tao tie	100
+尤魔	you mo	100
+豪德寺	hao de si	100
+三花	san hua	100
+山城	shan cheng	100
+高岭	gao ling	100
+驹草	ju cao	100
+山如	shan ru	100
+玉造	yu zao	100
+魅须丸	mei xu wan	100
+菅牧	jian mu	100
+饭纲丸	fan gang wan	100
+天弓	tian gong	100
+千亦	qian yi	100
+姬虫	ji chong	100
+百百世	bai bai shi	100
+三头	san tou	100
+慧之子	hui zhi zi	100
+天火人	tian huo ren	100
+血枪	xue qiang	100
+豫母都	yu mu dou	100
+日狭美	ri xia mei	100
+日白	ri bai	100
+残无	can wu	100
+尘塚	chen zhong	100
+姥芽	lao ya	100
+魑魅	chi mei	100
+道神	dao shen	100
+驯子	xun zi	100
+磐永	pan yong	100
+阿梨夜	a li ye	100
+渡里	du li	100
+贝子	bei zi	100
+桑尼	sang ni	100
+露娜	lu na	100
+斯塔	si ta	100
+射命丸	she ming wan	100
+文文	wen wen	100
+绵月	mian yue	100
+丰姬	feng ji	100
+依姬	yi ji	100
+稗田	bai tian	100
+阿求	a qiu	100
+茨木	ci mu	100
+华扇	hua shan	100
+本居	ben ju	100
+小铃	xiao ling	100
+奥野田	ao ye tian	100
+美宵	mei xiao	100
+宫出口	gong chu kou	100
+瑞灵	rui ling	100
+莲子	lian zi	100
+黑猪	hei zhu	100
+白猪	bai zhu	100
+红猪	hong zhu	100
+绿猪	lv zhu	100
+紫猪	zi zhu	100
+粉猪	fen zhu	100
+蓝猪	lan zhu	100
+梦想封印	meng xiang feng yin	100
+封魔阵	feng mo zhen	100
+极限火花	ji xian huo hua	100
+完美冻结	wan mei dong jie	100
+钻石风暴	zuan shi feng bao	100
+芳华绚烂	fang hua xuan lan	100
+卷柏	juan bai	100
+彩虹风铃	cai hong feng ling	100
+华想梦葛	hua xiang meng ge	100
+彩光乱舞	cai guang luan wu	100
+彩光	cai guang	100
+极彩台风	ji cai tai feng	100
+火神之光	huo shen zhi guang	100
+三石塔	san shi ta	100
+慵懒三石塔	yong lan san shi ta	100
+三石塔的震动	san shi ta de zhen dong	100
+熔岩环石阵	rong yan huan shi zhen	100
+环状熔岩带	huan zhuang rong yan dai	100
+水银之毒	shui yin zhi du	100
+森林大火	sen lin da huo	100
+水精公主	shui jing gong zhu	100
+湖葬	hu zang	100
+风灵的角笛	feng ling de jiao di	100
+风灵角笛	feng ling jiao di	100
+角笛	jiao di	100
+绿色风暴	lv se feng bao	100
+水精灵	shui jing ling	100
+火神的光辉	huo shen de guang hui	100
+翡翠巨石	fei cui ju shi	100
+金属疲劳	jin shu pi lao	100
+银龙	yin long	100
+幻惑误导	huan huo wu dao	100
+幻惑诱导	huan huo you dao	100
+幻惑	huan huo	100
+迷幻的杰克	mi huan de jie ke	100
+迷幻杰克	mi huan jie ke	100
+世界	shi jie	100
+杀人玩偶	sha ren wan ou	100
+杀人木偶	sha ren mu ou	100
+永恒的温柔	yong heng de wen rou	100
+神罚	shen fa	100
+千根针的针山	qian gen zhen de zhen shan	100
+吸血鬼幻想	xi xue gui huan xiang	100
+吸幻	xi huan	100
+绯红之主	fei hong zhi zhu	100
+红专	hong zhuan	100
+红色的幻想乡	hong se de huan xiang xiang	100
+红幻	hong huan	100
+沉静的月神	chen jing de yue shen	100
+皇家烈焰	huang jia lie yan	100
+莱瓦汀	lai wa ting	100
+四重存在	si zhong cun zai	100
+笼中鸟	long zhong niao	100
+星虹破碎	xing hong po sui	100
+折反射	zhe fan she	100
+恋之迷宫	lian zhi mi gong	100
+之后就一个人都没有了吗	zhi hou jiu yi ge ren dou mei you le ma	100
+二重结界	er chong jie jie	100
+冰霜方阵	bing shuang fang zhen	100
+冰袭方阵	bing xi fang zhen	100
+延长的冬日	yan chang de dong ri	100
+桌灵转	zhuo ling zhuan	100
+凤凰卵	feng huang luan	100
+凤凰展翅	feng huang zhan chi	100
+晴明大纹	qing ming da wen	100
+护法天童乱舞	hu fa tian tong luan wu	100
+奇门遁甲	qi men dun jia	100
+奇门	qi men	100
+少女文乐	shao nv wen le	100
+蓬莱人偶	peng lai ren ou	100
+蓬莱人形	peng lai ren xing	100
+大合葬	da he zang	100
+饿鬼剑	e gui jian	100
+饿王剑	e wang jian	100
+饿鬼十王	e gui shi wang	100
+业风神闪斩	ye feng shen shan zhan	100
+业风	ye feng	100
+修罗剑	xiu luo jian	100
+人神剑	ren shen jian	100
+天神剑	tian shen jian	100
+三魂七魄	san hun qi po	100
+三七	san qi	100
+一念无量劫	yi nian wu liang jie	100
+亡舞	wang wu	100
+生者必灭之理	sheng zhe bi mie zhi li	100
+生者必灭	sheng zhe bi mie	100
+华灵	hua ling	100
+蝶妄想	die wang xiang	100
+幽曲	you qu	100
+埋骨于弘川	mai gu yu hong chuan	100
+埋骨	mai gu	100
+完全墨染的樱花	wan quan mo ran de ying hua	100
+墨染樱	mo ran ying	100
+反魂蝶	fan hun die	100
+青鬼赤鬼	qing gui chi gui	100
+十二神将	shi er shen jiang	100
+四面楚歌	si mian chu ge	100
+天狐公主	tian hu gong zhu	100
+狐狗狸	hu gou li	100
+二重黑死蝶	er chong hei si die	100
+黑死蝶	hei si die	100
+式神	shi shen	100
+弹幕结界	dan mu jie jie	100
+梦想妙珠	meng xiang miao zhu	100
+八方鬼缚阵	ba fang gui fu zhen	100
+究极火花	jiu ji huo hua	100
+小行星带	xiao xing xing dai	100
+未来永劫斩	wei lai yong jie zhan	100
+回归虚无	hui gui xu wu	100
+冈格尼尔	gang ge ni er	100
+华胥的永眠	hua xu de yong mian	100
+户隐山之投	hu yin shan zhi tou	100
+户隐山	hu yin shan	100
+百万鬼夜行	bai wan gui ye xing	100
+萤光现象	ying guang xian xiang	100
+夜虫龙卷	ye chong long juan	100
+永夜蛰居	yong ye zhe ju	100
+木菟的咆哮	mu tu de pao xiao	100
+木菟咆哮	mu tu pao xiao	100
+木菟	mu tu	100
+毒蛾	du e	100
+祸延疾冲	huo yan ji chong	100
+三神器	san shen qi	100
+幻想乡传说	huan xiang xiang chuan shuo	100
+高天原	gao tian yuan	100
+八方龙杀阵	ba fang long sha zhen	100
+击月	ji yue	100
+幻视调律	huan shi diao lv	100
+月兔远程催眠术	yue tu yuan cheng cui mian shu	100
+壶中的天地	hu zhong de tian di	100
+天人的族谱	tian ren de zu pu	100
+苏生	su sheng	100
+思兼	si jian	100
+天文密葬法	tian wen mi zang fa	100
+蓬莱之药	peng lai zhi yao	100
+蓬莱药	peng lai yao	100
+壶中的大银河	hu zhong de da yin he	100
+耀眼的龙玉	yao yan de long yu	100
+龙玉	long yu	100
+佛体的金刚石	fu ti de jin gang shi	100
+佛钵	fu bo	100
+火蜥蜴	huo xi yi	100
+火鼠的皮衣	huo shu de pi yi	100
+燕的子安贝	yan de zi an bei	100
+无限的生命之泉	wu xian de sheng ming zhi quan	100
+爆菊泉	bao ju quan	100
+蓬莱的玉枝	peng lai de yu zhi	100
+玉枝	yu zhi	100
+永夜返	yong ye fan	100
+虚人	xu ren	100
+正直者之死	zheng zhi zhe zhi si	100
+徐福时空	xu fu shi kong	100
+月岩笠的诅咒	yue yan li de zu zhou	100
+凤翼天翔	feng yi tian xiang	100
+不合时令的蝶雨	bu he shi ling de die yu	100
+日出国之天子	ri chu guo zhi tian zi	100
+天网蛛网捕蝶之法	tian wang zhu wang bu die zhi fa	100
+蓬莱的树海	peng lai de shu hai	100
+不死鸟重生	bu si niao chong sheng	100
+无何有的净化	wu he you de jing hua	100
+梦想天生	meng xiang tian sheng	100
+收缩的世界	shou suo de shi jie	100
+待宵反射卫星斩	dai xiao fan she wei xing zhan	100
+绯红的命运	fei hong de ming yun	100
+绯红命运	fei hong ming yun	100
+西行寺无余涅槃	xi xing si wu yu nie pan	100
+深弹幕结界	shen dan mu jie jie	100
+花鸟风月	hua niao feng yue	100
+彼岸归航	bi an gui hang	100
+谷物神	gu wu shen	100
+厄神大人的生理节律	e shen da ren de sheng li jie lv	100
+大钟婆之火	da zhong po zhi huo	100
+大钟婆	da zhong po	100
+流放人偶	liu fang ren ou	100
+流刑人偶	liu xing ren ou	100
+流刑	liu xing	100
+光学迷彩	guang xue mi cai	100
+光学	guang xue	100
+漂溺	piao ni	100
+大瀑布	da pu bu	100
+延展手臂	yan zhan shou bi	100
+回转顶板	hui zhuan ding ban	100
+猿田彦神	yuan tian yan shen	100
+岐符	qi fu	100
+风神木叶隐身术	feng shen mu ye yin shen shu	100
+天狗颪	tian gou gua	100
+二百十日	er bai shi ri	100
+二百十	er bai shi	100
+幻想风靡	huan xiang feng mi	100
+无双风神	wu shuang feng shen	100
+天上天下的照国	tian shang tian xia de zhao guo	100
+照国	zhao guo	100
+一脉单传之弹幕	yi mai dan chuan zhi dan mu	100
+一脉单传	yi mai dan chuan	100
+单传	dan chuan	100
+客星	ke xing	100
+开海	kai hai	100
+建御名方神	jian yu ming fang shen	100
+八坂之神风	ba ban zhi shen feng	100
+御柱	yu zhu	100
+神粥	shen zhou	100
+神谷	shen gu	100
+御射山御狩神事	yu she shan yu shou shen shi	100
+御射山	yu she shan	100
+葛井清水	ge jing qing shui	100
+大和环面	da he huan mian	100
+天水	tian shui	100
+天龙	tian long	100
+信仰之山	xin yang zhi shan	100
+风神之神德	feng shen zhi shen de	100
+神德	shen de	100
+二拜二拍一拜	er bai er pai yi bai	100
+手长足长	shou chang zu zhang	100
+洩矢的铁轮	xie shi de tie lun	100
+厌川的翡翠	yan chuan de fei cui	100
+七石七木	qi shi qi mu	100
+小小青蛙不输风雨	xiao xiao qing wa bu shu feng yu	100
+赤蛙	chi wa	100
+诹访大战	zou fang da zhan	100
+祟符	sui fu	100
+要石	yao shi	100
+全人类的绯想天	quan ren lei de fei xiang tian	100
+钓瓶落	diao ping luo	100
+钓落瓶	diao luo ping	100
+开花爷爷	kai hua ye ye	100
+剪舌麻雀	jian she ma que	100
+舌切雀	she qie que	100
+丑时参拜	chou shi can bai	100
+怪力乱神	guai li luan shen	100
+罪人不释之枷	zui ren bu shi zhi jia	100
+罪枷	zui jia	100
+大江山岚	da jiang shan lan	100
+大江山颪	da jiang shan gua	100
+三步必杀	san bu bi sha	100
+恐怖催眠术	kong bu cui mian shu	100
+飞行虫之巢	fei xing chong zhi chao	100
+飞行虫	fei xing chong	100
+波粒	bo li	100
+蒙蒙迷雾	meng meng mi wu	100
+鸟居旋风	niao ju xuan feng	100
+怨灵猫乱步	yuan ling mao luan bu	100
+猫步	mao bu	100
+怨灵凭依妖精	yuan ling ping yi yao jing	100
+食人怨灵	shi ren yuan ling	100
+旧地狱的针山	jiu di yu de zhen shan	100
+针山	zhen shan	100
+死灰复燃	si hui fu ran	100
+小恶灵复活	xiao e ling fu huo	100
+火焰的车轮	huo yan de che lun	100
+核热	he re	100
+爆符	bao fu	100
+千兆耀斑	qian zhao yao ban	100
+十凶星	shi xiong xing	100
+地狱极乐熔毁	di yu ji le rong hui	100
+托卡马克	tuo ka ma ke	100
+地底太阳	di di tai yang	100
+神秘果	shen mi guo	100
+弹幕偏执症	dan mu pian zhi zheng	100
+本我	ben wo	100
+超我	chao wo	100
+妖怪测谎机	yao guai ce huang ji	100
+弹幕的墨迹测验	dan mu de mo ji ce yan	100
+埋火	mai huo	100
+被厌恶者的哲学	bei yan wu zhe de zhe xue	100
+地底蔷薇	di di qiang wei	100
+神代大蛇	shen dai da she	100
+棒符	bang fu	100
+搜符	sou fu	100
+灵摆	ling bai	100
+大轮	da lun	100
+超防水干爽伞妖	chao fang shui gan shuang san yao	100
+超防水	chao fang shui	100
+化铁	hua tie	100
+伞车	san che	100
+连打	lian da	100
+帝王海妖来袭	di wang hai yao lai xi	100
+天上天下连续勾拳	tian shang tian xia lian xu gou quan	100
+空前绝后巨眼焚身	kong qian jue hou ju yan fen shen	100
+倾覆	qing fu	100
+溺符	ni fu	100
+港符	gang fu	100
+悄然袭来的长勺	qiao ran xi lai de zhang shao	100
+长勺	zhang shao	100
+无上财宝	wu shang cai bao	100
+正义之威光	zheng yi zhi wei guang	100
+威光	wei guang	100
+无瑕佛法之独钴杵	wu xia fo fa zhi du gu chu	100
+转转棒	zhuan zhuan bang	100
+完全净化	wan quan jing hua	100
+紫云	zi yun	100
+极乐的紫色云路	ji le de zi se yun lu	100
+魔法蝶	mo fa die	100
+魔法银河系	mo fa yin he xi	100
+香蕉船	xiang jiao chuan	100
+魔神复诵	mo shen fu song	100
+飞钵	fei bo	100
+正体不明	zheng ti bu ming	100
+平安京的恶梦	ping an jing de e meng	100
+恨弓	hen gong	100
+源三位赖政之弓	yuan san wei lai zheng zhi gong	100
+狂弓	kuang gong	100
+金阁寺	jin ge si	100
+寒冰熔解器	han bing rong jie qi	100
+金红石折射	jin hong shi zhe she	100
+阳光冲击波	yang guang chong ji bo	100
+星星点点	xing xing dian dian	100
+苍穹中的精灵	cang qiong zhong de jing ling	100
+猎户座腰带	lie hu zuo yao dai	100
+花开无声	hua kai wu sheng	100
+满月之夜	man yue zhi ye	100
+寂静之月	ji jing zhi yue	100
+开放宇宙	kai fang yu zhou	100
+大坍缩	da tan suo	100
+超级英仙座	chao ji ying xian zuo	100
+妖精尽灭光	yao jing jin mie guang	100
+常夜樱	chang ye ying	100
+西行樱吹雪	xi xing ying chui xue	100
+樱吹雪	ying chui xue	100
+樱吹雪地狱	ying chui xue di yu	100
+毒爪	du zhao	100
+孤魂野鬼	gu hun ye gui	100
+走火入魔	zou huo ru mo	100
+通灵芳香	tong ling fang xiang	100
+道胎动	dao tai dong	100
+元兴寺的龙卷	yuan xing si de long juan	100
+元兴寺	yuan xing si	100
+雨之磐舟	yu zhi pan zhou	100
+天舟	tian zhou	100
+投皿	tou min	100
+火烧樱井寺	huo shao ying jing si	100
+樱井寺	ying jing si	100
+大物忌正餐	da wu ji zheng can	100
+圣童女	sheng tong nv	100
+十二阶之冠位	shi er jie zhi guan wei	100
+十二阶	shi er jie	100
+日出之处的天子	ri chu zhi chu de tian zi	100
+豪族乱舞	hao zu luan wu	100
+斑鸠寺的天球仪	ban jiu si de tian qiu yi	100
+斑鸠寺	ban jiu si	100
+天球仪	tian qiu yi	100
+救世之光	jiu shi zhi guang	100
+十七条	shi qi tiao	100
+无忤为宗	wu wu wei zong	100
+星辰降落	xing chen jiang luo	100
+星降	xing jiang	100
+新生的神灵	xin sheng de shen ling	100
+鸟兽戏画	niao shou xi hua	100
+野生离岛	ye sheng li dao	100
+逆鳞的惊涛	ni lin de jing tao	100
+犬齿	quan chi	100
+星形齿	xing xing chi	100
+满月的远吠	man yue de yuan fei	100
+远吠	yuan fei	100
+祇园精舍的钟声	qi yuan jing she de zhong sheng	100
+祇园	qi yuan	100
+无耳芳一	wu er fang yi	100
+平家的大怨灵	ping jia de da yuan ling	100
+诸行无常的琴声	zhu xing wu chang de qin sheng	100
+诸行无常	zhu xing wu chang	100
+回音之庭	hui yin zhi ting	100
+下克上安魂曲	xia ke shang an hun qu	100
+下克上送筝曲	xia ke shang song zheng qu	100
+下克上	xia ke shang	100
+逆针击	ni zhen ji	100
+天地有用	tian di you yong	100
+天壤梦弓	tian rang meng gong	100
+天下翻覆	tian xia fan fu	100
+镜中的邪恶	jing zhong de xie e	100
+诏敕	zhao chi	100
+变革空勇士	bian ge kong yong shi	100
+辉针剑	hui zhen jian	100
+进击的小人	jin ji de xiao ren	100
+七个一寸法师	qi ge yi cun fa shi	100
+一寸法师	yi cun fa shi	100
+雷电拨浪鼓	lei dian bo lang gu	100
+雷神之怒	lei shen zhi nu	100
+原始的节拍	yuan shi de jie pai	100
+原初的节拍	yuan chu de jie pai	100
+十七条宪法炸弹	shi qi tiao xian fa zha dan	100
+梵天之瞳	fan tian zhi tong	100
+运钝根的捕物帐	yun dun gen de bu wu zhang	100
+运钝根	yun dun gen	100
+浆果浆果团子	jiang guo jiang guo tuan zi	100
+团子影响力	tuan zi ying xiang li	100
+月见酒	yue jian jiu	100
+鹰击	ying ji	100
+凶弹	xiong dan	100
+刈安色的迷梦	yi an se de mi meng	100
+刈安色	yi an se	100
+梦我梦中	meng wo meng zhong	100
+狂梦	kuang meng	100
+乌合	wu he	100
+弹冠	dan guan	100
+孤翼的白鹭	gu yi de bai lu	100
+片翼的白鹭	pian yi de bai lu	100
+地狱之蚀	di yu zhi shi	100
+闪光与条纹	shan guang yu tiao wen	100
+星与条纹	xing yu tiao wen	100
+地狱火	di yu huo	100
+狱炎	yu yan	100
+条纹状的深渊	tiao wen zhuang de shen yuan	100
+阿波罗捏造说	a bo luo nie zao shuo	100
+纯光	chun guang	100
+百合	bai he	100
+神灵界	shen ling jie	100
+冻星	dong xing	100
+狂气	kuang qi	100
+纯化	chun hua	100
+纯符	chun fu	100
+纯粹的弹幕地狱	chun cui de dan mu di yu	100
+逢魔之刻	feng mo zhi ke	100
+邪秽在身	xie hui zai shen	100
+用于杀人的纯粹弹幕	yong yu sha ren de chun cui dan mu	100
+即席菩提	ji xi pu ti	100
+菩提	pu ti	100
+巨大弹	ju da dan	100
+业火	ye huo	100
+竹符	zhu fu	100
+茗荷	ming he	100
+七夕星节	qi xi xing jie	100
+七夕星祭	qi xi xing ji	100
+舞符	wu fu	100
+狂舞	kuang wu	100
+后光	hou guang	100
+里夏	li xia	100
+里秋	li qiu	100
+里冬	li dong	100
+里春	li chun	100
+春终	chun zhong	100
+夏终	xia zhong	100
+秋终	qiu zhong	100
+冬终	dong zhong	100
+风吹樱花	feng chui ying hua	100
+吹拂樱花	chui fu ying hua	100
+完美夏冰	wan mei xia bing	100
+疯狂秋风	feng kuang qiu feng	100
+极端寒冬	ji duan han dong	100
+饿鬼围城	e gui wei cheng	100
+分水试练	fen shui shi lian	100
+瞭望试练	liao wang shi lian	100
+鬼渡	gui du	100
+龟甲地狱	gui jia di yu	100
+鬼畜生	gui chu sheng	100
+龙纹弹	long wen dan	100
+埴轮	zhi lun	100
+线形	xian xing	100
+鬼形造形术	gui xing zao xing shu	100
+几何	ji he	100
+鬼形的乌合之众	gui xing de wu he zhi zhong	100
+最深的森域	zui shen de sen yu	100
+云间草	yun jian cao	100
+惊愕的云间草	jing e de yun jian cao	100
+薄雪草	bao xue cao	100
+阴阳神玉	yin yang shen yu	100
+女王珠	nv wang zhu	100
+阴阳窒息	yin yang zhi xi	100
+星火燎原	xing huo liao yuan	100
+虹彩陆离	hong cai lu li	100
+天马行空	tian ma xing kong	100
+光风霁月	guang feng ji yue	100
+无主供物	wu zhu gong wu	100
+收集狂	shou ji kuang	100
+弹幕市场	dan mu shi chang	100
+弹幕自由市场	dan mu zi you shi chang	100
+自由市场	zi you shi chang	100
+虹人环	hong ren huan	100
+弹幕领土	dan mu ling tu	100
+无道的弹幕领土	wu dao de dan mu ling tu	100
+弹幕的庇护所	dan mu de bi hu suo	100
+矿山爆破	kuang shan bao po	100
+噬蛇者	shi she zhe	100
+噬龙者	shi long zhe	100
+纯灵弹	chun ling dan	100
+无心纯灵弹	wu xin chun ling dan	100
+亡羊的王国	wang yang de wang guo	100
+宇宙尘	yu zhou chen	100
+唐柜翻转	tang gui fan zhuan	100
+魑符	chi fu	100
+谜符	mi fu	100
+弹幕金字塔	dan mu jin zi ta	100
+碎片大数据	sui pian da shu ju	100
+射鹿	she lu	100
+潮盈珠	chao ying zhu	100
+潮干珠	chao gan zhu	100
+月龙	yue long	100
+死符	si fu	100
+永远之冬	yong yuan zhi dong	100
+恒久之冬	heng jiu zhi dong	100
+混沌之冬	hun dun zhi dong	100
+弹幕的化石	dan mu de hua shi	100
+幻想的遗骸	huan xiang de yi hai	100
+锦上的虚像	jin shang de xu xiang	100
+锦之上的虚像	jin zhi shang de xu xiang	100
+月符	yue fu	100
+石之女神	shi zhi nv shen	100
+不生不灭的石之女神	bu sheng bu mie de shi zhi nv shen	100
+不生不灭	bu sheng bu mie	100
+符卡	fu ka	100
+非符	fei fu	100
+残机	can ji	100
+最大得点	zui da de dian	100
+得点	de dian	100
+火力	huo li	100
+刻符	ke fu	100
+夜点	ye dian	100
+逢魔	feng mo	100
+灵界	ling jie	100
+完美无缺	wan mei wu que	100
+无欠	wu qian	100
+异变石	yi bian shi	100
+异变敌	yi bian di	100
+人妖槽	ren yao cao	100
+信号槽	xin hao cao	100
+信仰槽	xin yang cao	100
+碟碎	die sui	100
+残碎	can sui	100
+雷碎	lei sui	100
+樱点	ying dian	100
+擦弹	ca dan	100
+收点	shou dian	100
+收点线	shou dian xian	100
+狼咆哮	lang pao xiao	100
+獭咆哮	ta pao xiao	100
+鹰咆哮	ying pao xiao	100
+主石	zhu shi	100
+副石	fu shi	100
+判定	pan ding	100
+点弹	dian dan	100
+菌弹	jun dan	100
+粒弹	li dan	100
+滴弹	di dan	100
+小玉	xiao yu	100
+环玉	huan yu	100
+中玉	zhong yu	100
+大玉	da yu	100
+链弹	lian dan	100
+苦无弹	ku wu dan	100
+针弹	zhen dan	100
+札弹	zha dan	100
+鳞弹	lin dan	100
+铳弹	chong dan	100
+杆菌弹	gan jun dan	100
+小星弹	xiao xing dan	100
+大星弹	da xing dan	100
+星弹	xing dan	100
+钱弹	qian dan	100
+椭弹	tuo dan	100
+剑弹	jian dan	100
+刀弹	dao dan	100
+蝶弹	die dan	100
+炎弹	yan dan	100
+水光弹	shui guang dan	100
+音符弹	yin fu dan	100
+休止符弹	xiu zhi fu dan	100
+心弹	xin dan	100
+箭弹	jian dan	100
+光玉	guang yu	100
+小阴阳玉	xiao yin yang yu	100
+大阴阳玉	da yin yang yu	100
+阴阳玉	yin yang yu	100
+菱弹	ling dan	100
+消弹	xiao dan	100
+曲线激光	qu xian ji guang	100
+预警线	yu jing xian	100
+生成杀	sheng cheng sha	100
+射击	she ji	100
+低速封印	di su feng yin	100
+高速封印	gao su feng yin	100
+续关	xu guan	100
+机师	ji shi	100
+机签	ji qian	100
+机体	ji ti	100
+子机	zi ji	100
+控枪	kong qiang	100
+停枪	ting qiang	100
+背版	bei ban	100
+版面	ban mian	100
+死尸弹	si shi dan	100
+击破撞	ji po zhuang	100
+判定点	pan ding dian	100
+体术	ti shu	100
+微移	wei yi	100
+随机弹	sui ji dan	100
+自机狙	zi ji ju	100
+交叉弹	jiao cha dan	100
+爆菊弹	bao ju dan	100
+护身弹	hu shen dan	100
+反击弹	fan ji dan	100
+奇数狙	ji shu ju	100
+偶数狙	ou shu ju	100
+奇数弹	ji shu dan	100
+偶数弹	ou shu dan	100
+弹幕	dan mu	100
+处理落	chu li luo	100
+延迟	yan chi	100
+底力	di li	100
+视野	shi ye	100
+机控	ji kong	100
+规划	gui hua	100
+折返	zhe fan	100
+走位	zou wei	100
+安定	an ding	100
+安定点	an ding dian	100
+安定线	an ding xian	100
+内避	nei bi	100
+外避	wai bi	100
+诱导	you dao	100
+贴脸	tie lian	100
+速攻	su gong	100
+速破	su po	100
+开荒	kai huang	100
+混关	hun guan	100
+打分	da fen	100
+推把	tui ba	100
+龙珠	long zhu	100
+爆分	bao fen	100
+吃黄	chi huang	100
+吃白	chi bai	100
+季节解放	ji jie jie fang	100
+决死	jue si	100
+杂鱼	za yu	100
+道中	dao zhong	100
+关底	guan di	100
+一非	yi fei	100
+二非	er fei	100
+三非	san fei	100
+四非	si fei	100
+五非	wu fei	100
+六非	liu fei	100
+七非	qi fei	100
+八非	ba fei	100
+九非	jiu fei	100
+十非	shi fei	100
+一符	yi fu	100
+二符	er fu	100
+三符	san fu	100
+四符	si fu	100
+五符	wu fu	100
+六符	liu fu	100
+七符	qi fu	100
+八符	ba fu	100
+九符	jiu fu	100
+十符	shi fu	100
+收卡	shou ka	100
+时符	shi fu	100
+终符	zhong fu	100
+全避	quan bi	100
+东方	dong fang	100
+车万	che wan	100
+不死鸟	bu si niao	100
+上海人偶	shang hai ren ou	100
+背后之门	bei hou zhi men	100
+太古的勾玉	tai gu de gou yu	100
+太古勾玉	tai gu gou yu	100
+守财奴	shou cai nu	100
+死秽回避之药	si hui hui bi zhi yao	100
+不死药	bu si yao	100
+弱肉强食之理	ruo rou qiang shi zhi li	100
+法力经典	fa li jing dian	100
+弟子狸	di zi li	100
+木屐	mu ji	100
+有钱能使鬼推磨	you qian neng shi gui tui mo	100
+鬼推磨	gui tui mo	100
+肉体强化地藏	rou ti qiang hua di zang	100
+龙之烟管	long zhi yan guan	100
+画面的界线	hua mian de jie xian	100
+万宝槌	wan bao chui	100
+吸血鬼之牙	xi xue gui zhi ya	100
+地底的太阳	di di de tai yang	100
+大天狗的麦饭	da tian gou de mai fan	100
+天蓝色的勾玉	tian lan se de gou yu	100
+绯红恶魔	fei hong e mo	100
+生物赤红	sheng wu chi hong	100
+冰雪花簇	bing xue hua cu	100
+蓝色季节	lan se ji jie	100
+黄色地心	huang se di xin	100
+不朽明月	bu xiu ming yue	100
+兽之冷硬	shou zhi leng ying	100
+神道之风	shen dao zhi feng	100
+一开	yi kai	100
+二开	er kai	100
+三开	san kai	100
+四开	si kai	100
+五开	wu kai	100
+六开	liu kai	100
+闭幕	bi mu	100
+魔法书	mo fa shu	100
+魔法阵	mo fa zhen	100
+铁球阵	tie qiu zhen	100
+吴克	wu ke	100
+三吴克	san wu ke	100
+七吴克	qi wu ke	100
+太田飞行阵	tai tian fei xing zhen	100
+飞行阵	fei xing zhen	100
+黄绿蓝	huang lv lan	100
+激光阵	ji guang zhen	100
+黄豆阵	huang dou zhen	100
+绿豆阵	lv dou zhen	100
+黄风神	huang feng shen	100
+蓝风神	lan feng shen	100
+封兽球	feng shou qiu	100
+尾气	wei qi	100
+宝天京	bao tian jing	100
+鬼葬剑	gui zang jian	100
+梦旧市	meng jiu shi	100
+催狐谈	cui hu tan	100
+祈华梦	qi hua meng	100
+栖霞园	qi xia yuan	100
+眠世界	mian shi jie	100
+远空界	yuan kong jie	100
+资质疏	zi zhi shu	100
+真珠岛	zhen zhu dao	100
+魔宝城	mo bao cheng	100
+桃源宫	tao yuan gong	100
+白尘记	bai chen ji	100
+导命树	dao ming shu	100
+邪星章	xie xing zhang	100
+伪神灵庙	wei shen ling miao	100
+逆妙乱	ni miao luan	100
+夏夜祭	xia ye ji	100
+雪莲华	xue lian hua	100
+幕华祭	mu hua ji	100
+门殊钱	men shu qian	100
+天华楼	tian hua lou	100
+幻想杀	huan xiang sha	100
+幻梦笺	huan meng jian	100
+龙隐谈	long yin tan	100
+觉醒珠	jue xing zhu	100
+潮圣书	chao sheng shu	100
+实在相	shi zai xiang	100
+光条阁	guang tiao ge	100
+魔晶精	mo jing jing	100
+水晶宫	shui jing gong	100
+海惠堂	hai hui tang	100
+梦终剧	meng zhong ju	100
+时封城	shi feng cheng	100
+落流星	luo liu xing	100
+稀钱群	xi qian qun	100
+花逐夜	hua zhu ye	100
+百花宴	bai hua yan	100
+求霖忍	qiu lin ren	100
+妖精乡	yao jing xiang	100
+恋觉想	lian jue xiang	100
+泡台风	pao tai feng	100
+光像仪	guang xiang yi	100
+宵海格	xiao hai ge	100
+花蝴蝶	hua hu die	100
+希莲船	xi lian chuan	100
+梦无垠	meng wu yin	100
+圣战影	sheng zhan ying	100
+云源历	yun yuan li	100
+时裂空	shi lie kong	100
+命雨滴	ming yu di	100
+灵守寺	ling shou si	100
+雨仰石	yu yang shi	100
+东方宝天京	dong fang bao tian jing	100
+东方鬼葬剑	dong fang gui zang jian	100
+东方梦旧市	dong fang meng jiu shi	100
+东方催狐谈	dong fang cui hu tan	100
+东方祈华梦	dong fang qi hua meng	100
+东方栖霞园	dong fang qi xia yuan	100
+东方眠世界	dong fang mian shi jie	100
+东方远空界	dong fang yuan kong jie	100
+东方资质疏	dong fang zi zhi shu	100
+东方真珠岛	dong fang zhen zhu dao	100
+东方魔宝城	dong fang mo bao cheng	100
+东方桃源宫	dong fang tao yuan gong	100
+东方白尘记	dong fang bai chen ji	100
+东方导命树	dong fang dao ming shu	100
+东方邪星章	dong fang xie xing zhang	100
+东方伪神灵庙	dong fang wei shen ling miao	100
+东方逆妙乱	dong fang ni miao luan	100
+东方夏夜祭	dong fang xia ye ji	100
+东方雪莲华	dong fang xue lian hua	100
+东方幕华祭	dong fang mu hua ji	100
+东方门殊钱	dong fang men shu qian	100
+东方天华楼	dong fang tian hua lou	100
+东方幻想杀	dong fang huan xiang sha	100
+东方幻梦笺	dong fang huan meng jian	100
+东方龙隐谈	dong fang long yin tan	100
+东方觉醒珠	dong fang jue xing zhu	100
+东方潮圣书	dong fang chao sheng shu	100
+东方实在相	dong fang shi zai xiang	100
+东方光条阁	dong fang guang tiao ge	100
+东方魔晶精	dong fang mo jing jing	100
+东方水晶宫	dong fang shui jing gong	100
+东方海惠堂	dong fang hai hui tang	100
+东方梦终剧	dong fang meng zhong ju	100
+东方时封城	dong fang shi feng cheng	100
+东方落流星	dong fang luo liu xing	100
+东方稀钱群	dong fang xi qian qun	100
+东方花逐夜	dong fang hua zhu ye	100
+东方百花宴	dong fang bai hua yan	100
+东方求霖忍	dong fang qiu lin ren	100
+东方妖精乡	dong fang yao jing xiang	100
+东方恋觉想	dong fang lian jue xiang	100
+东方泡台风	dong fang pao tai feng	100
+东方光像仪	dong fang guang xiang yi	100
+东方宵海格	dong fang xiao hai ge	100
+东方花蝴蝶	dong fang hua hu die	100
+东方希莲船	dong fang xi lian chuan	100
+东方梦无垠	dong fang meng wu yin	100
+东方圣战影	dong fang sheng zhan ying	100
+东方云源历	dong fang yun yuan li	100
+东方时裂空	dong fang shi lie kong	100
+东方命雨滴	dong fang ming yu di	100
+东方灵守寺	dong fang ling shou si	100
+东方雨仰石	dong fang yu yang shi	100
+弹幕异夜剧	dan mu yi ye ju	100
+幻想浪漫纪行	huan xiang lang man ji xing	100
+铃集无名之丘	ling ji wu ming zhi qiu	100
+铃集	ling ji	100
+连缘	lian yuan	100
+连缘无现里	lian yuan wu xian li	100
+连缘蛇丛剑	lian yuan she cong jian	100
+连缘灵烈传	lian yuan ling lie chuan	100
+连缘天影战记	lian yuan tian ying zhan ji	100
+无现里	wu xian li	100
+蛇丛剑	she cong jian	100
+灵烈传	ling lie chuan	100
+天影战记	tian ying zhan ji	100
+雪晶石	xue jing shi	100
+幡紫龙	fan zi long	100
+秋霜玉	qiu shuang yu	100
+稀翁玉	xi weng yu	100
+西方幡紫龙	xi fang fan zi long	100
+西方秋霜玉	xi fang qiu shuang yu	100
+西方稀翁玉	xi fang xi weng yu	100
+黄昏酒场	huang hun jiu chang	100
+红月篇	hong yue pian	100
+春雪篇	chun xue pian	100
+永夜篇	yong ye pian	100
+博丽灵梦	bllm	100
+雾雨魔理沙	wymls	100
+露米娅	lmy	100
+大妖精	dyj	100
+琪露诺	qln	100
+红美铃	hml	100
+小恶魔	xem	100
+帕秋莉	pql	100
+诺蕾姬	nlj	100
+帕秋莉·诺蕾姬	pql	100
+十六夜咲夜	slyxy	100
+蕾米莉亚	lmly	100
+斯卡蕾特	sklt	100
+蕾米莉亚·斯卡蕾特	lmly	100
+芙兰朵露	fldl	100
+芙兰朵露·斯卡蕾特	fldl	100
+蕾蒂	ld	100
+霍瓦特洛克	hwtlk	100
+蕾蒂·霍瓦特洛克	ld	100
+爱丽丝	als	100
+玛格特洛依德	mgtlyd	100
+爱丽丝·玛格特洛依德	als	100
+莉莉霍瓦特	llhwt	100
+露娜萨	lns	100
+普莉兹姆利巴	plzmlb	100
+露娜萨·普莉兹姆利巴	lns	100
+梅露兰	mll	100
+梅露兰·普莉兹姆利巴	mll	100
+莉莉卡	llk	100
+莉莉卡·普莉兹姆利巴	llk	100
+魂魄妖梦	hpym	100
+西行寺幽幽子	xxsyyz	100
+八云蓝	byl	100
+八云紫	byz	100
+伊吹萃香	yccx	100
+莉格露	lgl	100
+奈特巴格	ntbg	100
+莉格露·奈特巴格	lgl	100
+米斯蒂娅	msdy	100
+萝蕾拉	lll	100
+米斯蒂娅·萝蕾拉	msdy	100
+上白泽慧音	sbzhy	100
+因幡天为	yftw	100
+铃仙	lx	100
+铃仙·优昙华院·因幡	lx	100
+八意永琳	byyl	100
+蓬莱山辉夜	plshy	100
+藤原妹红	tymh	100
+梅蒂欣	mdx	100
+梅兰可莉	mlkl	100
+梅蒂欣·梅兰可莉	mdx	100
+风见幽香	fjyx	100
+小野塚小町	xyzxt	100
+四季映姬	sjyj	100
+夜摩仙那度	ymxnd	100
+四季映姬·夜摩仙那度	sjyj	100
+秋静叶	qjy	100
+秋穰子	qrz	100
+键山雏	jsc	100
+河城荷取	hchq	100
+犬走椛	qzh	100
+东风谷早苗	dfgzm	100
+八坂神奈子	bbsnz	100
+洩矢诹访子	xszfz	100
+永江衣玖	yjyj	100
+比那名居天子	bnmjtz	100
+琪斯美	qsm	100
+黑谷山女	hgsn	100
+水桥帕露西	sqplx	100
+星熊勇仪	xxyy	100
+古明地觉	gmdj	100
+火焰猫燐	hyml	100
+灵乌路空	lwlk	100
+古明地恋	gmdl	100
+娜兹玲	nzl	100
+多多良小伞	ddlxs	100
+云山	ys	100
+云居一轮	yjyl	100
+村纱水蜜	cssm	100
+寅丸星	ywx	100
+圣白莲	sbl	100
+封兽鵺	fsy	100
+姬海棠果	jhtg	100
+幽谷响子	ygxz	100
+宫古芳香	ggfx	100
+霍青娥	hqe	100
+苏我屠自古	swtzg	100
+物部布都	wbbd	100
+丰聪耳神子	fcesz	100
+二岩猯藏	eytc	100
+秦心	qx	100
+若鹭姬	rlj	100
+赤蛮奇	cmq	100
+今泉影狼	jqyl	100
+九十九弁弁	jsjbb	100
+九十九八桥	jsjbq	100
+鬼人正邪	grzx	100
+少名针妙丸	smzmw	100
+堀川雷鼓	kclg	100
+宇佐见堇子	yzjjz	100
+清兰	ql	100
+铃瑚	lh	100
+哆来咪	dlm	100
+苏伊特	syt	100
+哆来咪·苏伊特	dlm	100
+稀神探女	xstn	100
+克劳恩皮丝	kleps	100
+纯狐	ch	100
+赫卡提亚	hkty	100
+拉碧斯拉祖利	lbslzl	100
+赫卡提亚·拉碧斯拉祖利	hkty	100
+依神女苑	ysny	100
+依神紫苑	yszy	100
+爱塔妮缇拉尔瓦	atntlew	100
+坂田合欢	bthh	100
+高丽野阿吽	glyah	100
+矢田寺成美	stscm	100
+尔子田里乃	eztln	100
+丁礼田舞	dltw	100
+摩多罗隐岐奈	mdlyqn	100
+戎璎花	ryh	100
+牛崎润美	nqrm	100
+庭渡久侘歌	tdjcg	100
+吉吊八千慧	jdbqh	100
+杖刀偶磨弓	zdomg	100
+埴安神袿姬	zasgj	100
+骊驹早鬼	ljzg	100
+饕餮尤魔	ttym	100
+豪德寺三花	hdssh	100
+山城高岭	scgl	100
+驹草山如	jcsr	100
+玉造魅须丸	yzmxw	100
+菅牧典	jmd	100
+饭纲丸龙	fgwl	100
+天弓千亦	tgqy	100
+姬虫百百世	jcbbs	100
+孙美天	smt	100
+三头慧之子	sthzz	100
+天火人血枪	thrxq	100
+豫母都日狭美	ymdrxm	100
+日白残无	rbcw	100
+尘塚姥芽	czly	100
+封兽魑魅	fscm	100
+道神驯子	dsxz	100
+维缦	wm	100
+浅间	qj	100
+维缦·浅间	wm	100
+磐永阿梨夜	pyaly	100
+渡里贝子	dlbz	100
+渡里妮娜	dlnn	100
+神玉	sy	100
+魅魔	mm	100
+菊理	jl	100
+矜羯罗	jjl	100
+幽幻魔眼	yhmy	100
+依莉斯	yls	100
+萨丽爱尔	slae	100
+玄爷	xy	100
+里香	lx	100
+明罗	ml	100
+爱莲	al	100
+小兔姬	xtj	100
+卡娜	kn	100
+安娜贝拉尔	anble	100
+卡娜·安娜贝拉尔	kn	100
+朝仓理香子	cclxz	100
+北白河千百合	bbhqbh	100
+冈崎梦美	gqmm	100
+奥莲姬	alj	100
+胡桃	ht	100
+艾丽	al	100
+幽香	yx	100
+梦月	my	100
+幻月	hy	100
+萨拉	sl	100
+露易兹	lyz	100
+梦子	mz	100
+神绮	sq	100
+森近霖之助	sjlzz	100
+桑尼米尔克	snmek	100
+露娜切露德	lnqld	100
+斯塔萨菲雅	stsfy	100
+射命丸文	smww	100
+绵月丰姬	myfj	100
+绵月依姬	myyj	100
+稗田阿求	btaq	100
+茨木华扇	cmhs	100
+本居小铃	bjxl	100
+奥野田美宵	aytmx	100
+宫出口瑞灵	gckrl	100
+宇佐见莲子	yzjlz	100
+玛艾露贝莉	malbl	100
+赫恩	he	100
+玛艾露贝莉·赫恩	malbl	100
+东方灵异传	dflyc	100
+东方封魔录	dffml	100
+东方梦时空	dfmsk	100
+东方幻想乡	dfhxx	100
+东方怪绮谈	dfgqt	100
+东方红魔乡	dfhmx	100
+东方妖妖梦	dfyym	100
+东方萃梦想	dfcmx	100
+东方永夜抄	dfyyc	100
+东方花映塚	dfhyz	100
+东方风神录	dffsl	100
+东方地灵殿	dfdld	100
+东方星莲船	dfxlc	100
+东方绯想天	dffxt	100
+东方文花帖	dfwht	100
+东方心绮楼	dfxql	100
+东方神灵庙	dfslm	100
+东方辉针城	dfhzc	100
+东方深秘录	dfsml	100
+东方绀珠传	dfgzc	100
+东方凭依华	dfpyh	100
+东方天空璋	dftkz	100
+东方鬼形兽	dfgxs	100
+东方刚欲异闻	dfgyyw	100
+东方虹龙洞	dfhld	100
+东方兽王园	dfswy	100
+东方锦上京	dfjsj	100
+东方香霖堂	dfxlt	100
+东方儚月抄	dfmyc	100
+东方求闻史纪	dfqwsj	100
+东方茨歌仙	dfcgx	100
+东方铃奈庵	dflna	100
+东方醉蝶华	dfzdh	100
+东方智灵奇传	dfzlqc	100
+东方三月精	dfsyj	100
+妖精大战争	yjdzz	100
+灵异传	lyc	100
+封魔录	fml	100
+梦时空	msk	100
+幻想乡	hxx	100
+怪绮谈	gqt	100
+红魔乡	hmx	100
+妖妖梦	yym	100
+萃梦想	cmx	100
+永夜抄	yyc	100
+花映塚	hyz	100
+风神录	fsl	100
+地灵殿	dld	100
+星莲船	xlc	100
+绯想天	fxt	100
+文花帖	wht	100
+心绮楼	xql	100
+神灵庙	slm	100
+辉针城	hzc	100
+深秘录	sml	100
+绀珠传	gzc	100
+凭依华	pyh	100
+天空璋	tkz	100
+鬼形兽	gxs	100
+刚欲异闻	gyyw	100
+虹龙洞	hld	100
+兽王园	swy	100
+锦上京	jsj	100
+香霖堂	xlt	100
+儚月抄	myc	100
+求闻史纪	qwsj	100
+茨歌仙	cgx	100
+铃奈庵	lna	100
+醉蝶华	zdh	100
+智灵奇传	zlqc	100
+三月精	syj	100
+大战争	dzz	100
+博丽	bl	100
+灵梦	lm	100
+雾雨	wy	100
+魔理沙	mls	100
+十六夜	sly	100
+咲夜	xy	100
+莉莉白	llb	100
+丽丽黑	llh	100
+魂魄	hp	100
+妖梦	ym	100
+西行寺	xxs	100
+幽幽子	yyz	100
+八云	by	100
+紫妈	zm	100
+伊吹	yc	100
+萃香	cx	100
+上白泽	sbz	100
+慧音	hy	100
+因幡	yf	100
+天为	tw	100
+因幡帝	yfd	100
+八意	by	100
+永琳	yl	100
+蓬莱山	pls	100
+辉夜	hy	100
+藤原	ty	100
+妹红	mh	100
+风见	fj	100
+小野塚	xyz	100
+小町	xt	100
+四季	sj	100
+静叶	jy	100
+穰子	rz	100
+河城	hc	100
+荷取	hq	100
+河童	ht	100
+犬走	qz	100
+狗椛	gh	100
+东风谷	dfg	100
+早苗	zm	100
+八坂	bb	100
+神奈子	snz	100
+洩矢	xs	100
+诹访子	zfz	100
+永江	yj	100
+衣玖	yj	100
+比那名居	bnmj	100
+天子	tz	100
+琪斯	qs	100
+小桶	xt	100
+黑谷	hg	100
+山女	sn	100
+水桥	sq	100
+帕露西	plx	100
+星熊	xx	100
+勇仪	yy	100
+火焰猫	hym	100
+阿燐	al	100
+灵乌路	lwl	100
+阿空	ak	100
+古明地	gmd	100
+娜兹	nz	100
+多多良	ddl	100
+恋恋	ll	100
+小伞	xs	100
+云居	yj	100
+一轮	yl	100
+村纱	cs	100
+水蜜	sm	100
+白莲	bl	100
+莲妈	lm	100
+封兽	fs	100
+姬海棠	jht	100
+姬海棠羽立	jhtyl	100
+幽谷	yg	100
+响子	xz	100
+宫古	gg	100
+芳香	fx	100
+青娥	qe	100
+苏我	sw	100
+屠自古	tzg	100
+物部	wb	100
+布都	bd	100
+布嘟嘟	bdd	100
+丰聪耳	fce	100
+神子	sz	100
+大狸子	dlz	100
+猯藏	tc	100
+若鹭	rl	100
+人鱼	ry	100
+赤蛮	cm	100
+飞头蛮	ftm	100
+今泉	jq	100
+影狼	yl	100
+九十九	jsj	100
+弁弁	bb	100
+八桥	bq	100
+鬼人	gr	100
+正邪	zx	100
+少名	sm	100
+针妙丸	zmw	100
+小碗	xw	100
+堀川	kc	100
+雷鼓	lg	100
+宇佐见	yzj	100
+堇子	jz	100
+蓝兔	lt	100
+黄兔	ht	100
+稀神	xs	100
+探女	tn	100
+克劳恩	kle	100
+皮丝	ps	100
+依神	ys	100
+女苑	ny	100
+紫苑	zy	100
+拉尔瓦	lew	100
+大蛾子	dez	100
+合欢	hh	100
+坂田	bt	100
+坂田合欢乃	bthhn	100
+高丽野	gly	100
+阿吽	ah	100
+矢田寺	sts	100
+成美	cm	100
+尔子田	ezt	100
+里乃	ln	100
+丁礼田	dlt	100
+摩多罗	mdl	100
+隐岐奈	yqn	100
+璎花	yh	100
+牛崎	nq	100
+润美	rm	100
+庭渡	td	100
+久侘歌	jcg	100
+吉吊	jd	100
+八千慧	bqh	100
+杖刀	zd	100
+偶磨弓	omg	100
+埴安神	zas	100
+袿姬	gj	100
+骊驹	lj	100
+早鬼	zg	100
+饕餮	tt	100
+尤魔	ym	100
+豪德寺	hds	100
+三花	sh	100
+山城	sc	100
+高岭	gl	100
+驹草	jc	100
+山如	sr	100
+玉造	yz	100
+魅须丸	mxw	100
+菅牧	jm	100
+饭纲丸	fgw	100
+天弓	tg	100
+千亦	qy	100
+姬虫	jc	100
+百百世	bbs	100
+三头	st	100
+慧之子	hzz	100
+天火人	thr	100
+血枪	xq	100
+豫母都	ymd	100
+日狭美	rxm	100
+日白	rb	100
+残无	cw	100
+尘塚	cz	100
+姥芽	ly	100
+魑魅	cm	100
+道神	ds	100
+驯子	xz	100
+磐永	py	100
+阿梨夜	aly	100
+渡里	dl	100
+贝子	bz	100
+桑尼	sn	100
+露娜	ln	100
+斯塔	st	100
+射命丸	smw	100
+文文	ww	100
+绵月	my	100
+丰姬	fj	100
+依姬	yj	100
+稗田	bt	100
+阿求	aq	100
+茨木	cm	100
+华扇	hs	100
+本居	bj	100
+小铃	xl	100
+奥野田	ayt	100
+美宵	mx	100
+宫出口	gck	100
+瑞灵	rl	100
+莲子	lz	100
+黑猪	hz	100
+白猪	bz	100
+红猪	hz	100
+绿猪	lz	100
+紫猪	zz	100
+粉猪	fz	100
+蓝猪	lz	100
+
+符卡	fk	100
+非符	ff	100
+残机	cj	100
+最大得点	zddd	100
+得点	dd	100
+火力	hl	100
+刻符	kf	100
+夜点	yd	100
+逢魔	fm	100
+灵界	lj	100
+完美无缺	wmwq	100
+无欠	wq	100
+异变石	ybs	100
+异变敌	ybd	100
+人妖槽	ryc	100
+信号槽	xhc	100
+信仰槽	xyc	100
+碟碎	ds	100
+残碎	cs	100
+雷碎	ls	100
+樱点	yd	100
+擦弹	cd	100
+收点	sd	100
+收点线	sdx	100
+狼咆哮	lpx	100
+獭咆哮	tpx	100
+鹰咆哮	ypx	100
+主石	zs	100
+副石	fs	100
+判定	pd	100
+点弹	dd	100
+菌弹	jd	100
+粒弹	ld	100
+滴弹	dd	100
+小玉	xy	100
+环玉	hy	100
+中玉	zy	100
+大玉	dy	100
+链弹	ld	100
+苦无弹	kwd	100
+针弹	zd	100
+札弹	zd	100
+鳞弹	ld	100
+铳弹	cd	100
+杆菌弹	gjd	100
+小星弹	xxd	100
+大星弹	dxd	100
+星弹	xd	100
+钱弹	qd	100
+椭弹	td	100
+剑弹	jd	100
+刀弹	dd	100
+蝶弹	dd	100
+炎弹	yd	100
+水光弹	sgd	100
+音符弹	yfd	100
+休止符弹	xzfd	100
+心弹	xd	100
+箭弹	jd	100
+光玉	gy	100
+小阴阳玉	xyyy	100
+大阴阳玉	dyyy	100
+阴阳玉	yyy	100
+菱弹	ld	100
+消弹	xd	100
+曲线激光	qxjg	100
+预警线	yjx	100
+生成杀	scs	100
+射击	sj	100
+低速封印	dsfy	100
+高速封印	gsfy	100
+续关	xg	100
+机师	js	100
+机签	jq	100
+机体	jt	100
+子机	zj	100
+控枪	kq	100
+停枪	tq	100
+背版	bb	100
+版面	bm	100
+死尸弹	ssd	100
+击破撞	jpz	100
+判定点	pdd	100
+体术	ts	100
+微移	wy	100
+随机弹	sjd	100
+自机狙	zjj	100
+交叉弹	jcd	100
+爆菊弹	bjd	100
+护身弹	hsd	100
+反击弹	fjd	100
+奇数狙	jsj	100
+偶数狙	osj	100
+奇数弹	jsd	100
+偶数弹	osd	100
+弹幕	dm	100
+处理落	cll	100
+延迟	yc	100
+底力	dl	100
+视野	sy	100
+机控	jk	100
+规划	gh	100
+折返	zf	100
+走位	zw	100
+安定	ad	100
+安定点	add	100
+安定线	adx	100
+内避	nb	100
+外避	wb	100
+诱导	yd	100
+贴脸	tl	100
+速攻	sg	100
+速破	sp	100
+开荒	kh	100
+混关	hg	100
+打分	df	100
+推把	tb	100
+龙珠	lz	100
+爆分	bf	100
+吃黄	ch	100
+吃白	cb	100
+季节解放	jjjf	100
+决死	js	100
+杂鱼	zy	100
+道中	dz	100
+关底	gd	100
+一非	yf	100
+二非	ef	100
+三非	sf	100
+四非	sf	100
+五非	wf	100
+六非	lf	100
+七非	qf	100
+八非	bf	100
+九非	jf	100
+十非	sf	100
+一符	yf	100
+二符	ef	100
+三符	sf	100
+四符	sf	100
+五符	wf	100
+六符	lf	100
+七符	qf	100
+八符	bf	100
+九符	jf	100
+十符	sf	100
+收卡	sk	100
+时符	sf	100
+全避	qb	100
+不死鸟	bsn	100
+上海人偶	shro	100
+背后之门	bhzm	100
+太古的勾玉	tgdgy	100
+太古勾玉	tggy	100
+守财奴	scn	100
+死秽回避之药	shhbzy	100
+不死药	bsy	100
+弱肉强食之理	rrqszl	100
+法力经典	fljd	100
+弟子狸	dzl	100
+木屐	mj	100
+有钱能使鬼推磨	yqnsgtm	100
+鬼推磨	gtm	100
+肉体强化地藏	rtqhdz	100
+龙之烟管	lzyg	100
+画面的界线	hmdjx	100
+万宝槌	wbc	100
+吸血鬼之牙	xxgzy	100
+地底的太阳	dddty	100
+大天狗的麦饭	dtgdmf	100
+天蓝色的勾玉	tlsdgy	100
+绯红恶魔	fhem	100
+生物赤红	swch	100
+冰雪花簇	bxhc	100
+蓝色季节	lsjj	100
+黄色地心	hsdx	100
+不朽明月	bxmy	100
+兽之冷硬	szly	100
+神道之风	sdzf	100
+一开	yk	100
+二开	ek	100
+三开	sk	100
+四开	sk	100
+五开	wk	100
+六开	lk	100
+闭幕	bm	100
+魔法书	mfs	100
+魔法阵	mfz	100
+铁球阵	tqz	100
+吴克	wk	100
+三吴克	swk	100
+七吴克	qwk	100
+太田飞行阵	ttfxz	100
+飞行阵	fxz	100
+黄绿蓝	hll	100
+激光阵	jgz	100
+黄豆阵	hdz	100
+绿豆阵	ldz	100
+黄风神	hfs	100
+蓝风神	lfs	100
+封兽球	fsq	100
+尾气	wq	100
+宝天京	btj	100
+鬼葬剑	gzj	100
+梦旧市	mjs	100
+催狐谈	cht	100
+祈华梦	qhm	100
+栖霞园	qxy	100
+眠世界	msj	100
+远空界	ykj	100
+资质疏	zzs	100
+真珠岛	zzd	100
+魔宝城	mbc	100
+桃源宫	tyg	100
+白尘记	bcj	100
+导命树	dms	100
+邪星章	xxz	100
+伪神灵庙	wslm	100
+逆妙乱	nml	100
+夏夜祭	xyj	100
+雪莲华	xlh	100
+幕华祭	mhj	100
+门殊钱	msq	100
+天华楼	thl	100
+幻想杀	hxs	100
+幻梦笺	hmj	100
+龙隐谈	lyt	100
+觉醒珠	jxz	100
+潮圣书	css	100
+实在相	szx	100
+光条阁	gtg	100
+魔晶精	mjj	100
+水晶宫	sjg	100
+海惠堂	hht	100
+梦终剧	mzj	100
+时封城	sfc	100
+落流星	llx	100
+稀钱群	xqq	100
+花逐夜	hzy	100
+百花宴	bhy	100
+求霖忍	qlr	100
+妖精乡	yjx	100
+恋觉想	ljx	100
+泡台风	ptf	100
+光像仪	gxy	100
+宵海格	xhg	100
+花蝴蝶	hhd	100
+希莲船	xlc	100
+梦无垠	mwy	100
+圣战影	szy	100
+云源历	yyl	100
+时裂空	slk	100
+命雨滴	myd	100
+灵守寺	lss	100
+雨仰石	yys	100
+东方宝天京	dfbtj	100
+东方鬼葬剑	dfgzj	100
+东方梦旧市	dfmjs	100
+东方催狐谈	dfcht	100
+东方祈华梦	dfqhm	100
+东方栖霞园	dfqxy	100
+东方眠世界	dfmsj	100
+东方远空界	dfykj	100
+东方资质疏	dfzzs	100
+东方真珠岛	dfzzd	100
+东方魔宝城	dfmbc	100
+东方桃源宫	dftyg	100
+东方白尘记	dfbcj	100
+东方导命树	dfdms	100
+东方邪星章	dfxxz	100
+东方伪神灵庙	dfwslm	100
+东方逆妙乱	dfnml	100
+东方夏夜祭	dfxyj	100
+东方雪莲华	dfxlh	100
+东方幕华祭	dfmhj	100
+东方门殊钱	dfmsq	100
+东方天华楼	dfthl	100
+东方幻想杀	dfhxs	100
+东方幻梦笺	dfhmj	100
+东方龙隐谈	dflyt	100
+东方觉醒珠	dfjxz	100
+东方潮圣书	dfcss	100
+东方实在相	dfszx	100
+东方光条阁	dfgtg	100
+东方魔晶精	dfmjj	100
+东方水晶宫	dfsjg	100
+东方海惠堂	dfhht	100
+东方梦终剧	dfmzj	100
+东方时封城	dfsfc	100
+东方落流星	dfllx	100
+东方稀钱群	dfxqq	100
+东方花逐夜	dfhzy	100
+东方百花宴	dfbhy	100
+东方求霖忍	dfqlr	100
+东方妖精乡	dfyjx	100
+东方恋觉想	dfljx	100
+东方泡台风	dfptf	100
+东方光像仪	dfgxy	100
+东方宵海格	dfxhg	100
+东方花蝴蝶	dfhhd	100
+东方希莲船	dfxlc	100
+东方梦无垠	dfmwy	100
+东方圣战影	dfszy	100
+东方云源历	dfyyl	100
+东方时裂空	dfslk	100
+东方命雨滴	dfmyd	100
+东方灵守寺	dflss	100
+东方雨仰石	dfyys	100
+弹幕异夜剧	dmyyj	100
+幻想浪漫纪行	hxlmjx	100
+铃集无名之丘	ljwmzq	100
+铃集	lj	100
+连缘	ly	100
+连缘无现里	lywxl	100
+连缘蛇丛剑	lyscj	100
+连缘灵烈传	lyllc	100
+连缘天影战记	lytyzj	100
+无现里	wxl	100
+蛇丛剑	scj	100
+灵烈传	llc	100
+天影战记	tyzj	100
+雪晶石	xjs	100
+幡紫龙	fzl	100
+秋霜玉	qsy	100
+稀翁玉	xwy	100
+西方幡紫龙	xffzl	100
+西方秋霜玉	xfqsy	100
+西方稀翁玉	xfxwy	100
+黄昏酒场	hhjc	100
+红月篇	hyp	100
+春雪篇	cxp	100
+永夜篇	yyp	100

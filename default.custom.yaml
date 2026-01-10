@@ -1,0 +1,83 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Jan 10 11:16:48 2026"
+  rime_version: 1.13.1
+patch:
+  schema_list:
+    - {schema: rime_ice}
+  menu/page_size: 8
+  switcher/hotkeys:
+    - Control+Shift+grave
+  ascii_composer:
+    switch_key:
+      Caps_Lock: noop  # 保持hotkey
+      Shift_L: commit_code
+      Shift_R: noop
+      Control_L: noop
+      Control_R: noop
+  key_binder:
+    select_first_character: "Alt+Page_Up"
+    select_last_character: "Alt+Page_Down"
+    bindings:
+      # 翻页 [ ]
+      - { when: has_menu, accept: bracketleft, send: Page_Up }
+      - { when: has_menu, accept: bracketright, send: Page_Down }
+      
+      - { when: always, toggle: emoji, accept: Control+m }     # 切换emoji
+      - { when: always, toggle: full_shape, accept: Shift+space }     # 切换全半角
+      - { when: always, toggle: ascii_punct, accept: Control+period } # 切换中英标点
+      
+      # Option/Alt + ←/→ 切换光标至下/上一个拼音
+      - { when: composing, accept: Alt+Left, send: Shift+Left }               
+      - { when: composing, accept: Alt+Right, send: Shift+Right }
+      
+      # 将小键盘 0~9 . 映射到主键盘，数字金额大写的 Lua 如 R1234.5678 可使用小键盘输入
+      - {accept: KP_0, send: 0, when: composing}
+      - {accept: KP_1, send: 1, when: composing}
+      - {accept: KP_2, send: 2, when: composing}
+      - {accept: KP_3, send: 3, when: composing}
+      - {accept: KP_4, send: 4, when: composing}
+      - {accept: KP_5, send: 5, when: composing}
+      - {accept: KP_6, send: 6, when: composing}
+      - {accept: KP_7, send: 7, when: composing}
+      - {accept: KP_8, send: 8, when: composing}
+      - {accept: KP_9, send: 9, when: composing}
+      - {accept: KP_Decimal, send: period, when: composing}
+      # 将小键盘 + - * / 映射到主键盘，使计算器 如 1+2-3*4 可使用小键盘输入
+      - {accept: KP_Multiply, send: asterisk, when: composing}
+      - {accept: KP_Add,      send: plus,     when: composing}
+      - {accept: KP_Subtract, send: minus,    when: composing}
+      - {accept: KP_Divide,   send: slash,    when: composing}
+      
+      - { when: composing, accept: Control+h, send: Left }
+      - { when: composing, accept: Control+j, send: Down }
+      - { when: composing, accept: Control+k, send: Up }
+      - { when: composing, accept: Control+l, send: Right }
+      - { when: composing, accept: Control+d, send: Delete }
+      
+      # emacs_editing:
+      # - { when: composing, accept: Control+p, send: Up }
+      # - { when: composing, accept: Control+n, send: Down }
+      # - { when: composing, accept: Control+b, send: Left }
+      # - { when: composing, accept: Control+f, send: Right }
+      # - { when: composing, accept: Control+a, send: Home }
+      # - { when: composing, accept: Control+e, send: End }
+      # - { when: composing, accept: Control+d, send: Delete }
+      # - { when: composing, accept: Control+k, send: Shift+Delete }
+      # - { when: composing, accept: Control+h, send: BackSpace }
+      # - { when: composing, accept: Control+g, send: Escape }
+      # - { when: composing, accept: Control+bracketleft, send: Escape }
+      # - { when: composing, accept: Control+y, send: Page_Up }
+      # - { when: composing, accept: Alt+v, send: Page_Up }
+      # - { when: composing, accept: Control+v, send: Page_Down }
+      
+      # optimized_mode_switch:
+      # - { when: always, accept: Control+Shift+space, select: .next }
+      # - { when: always, accept: Shift+space, toggle: ascii_mode }
+      # - { when: always, accept: Control+comma, toggle: full_shape }
+      # - { when: always, accept: Control+period, toggle: ascii_punct }
+      # - { when: always, accept: Control+slash, toggle: traditionalization }
+
+
