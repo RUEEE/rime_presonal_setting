@@ -14,7 +14,7 @@ patch:
     switch_key:
       Caps_Lock: noop  # 保持hotkey
       Shift_L: commit_code
-      Shift_R: noop
+      Shift_R: commit_code
       Control_L: noop
       Control_R: noop
   key_binder:

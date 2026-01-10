@@ -1,0 +1,51 @@
+name: symbol
+version: "2026-01-05"
+sort: by_weight
+...
+
+现在 xianz
+
+↑	shang
+↑	up
+↗	you shang
+↗	rightup
+→	you
+→	right
+↘	you xia
+↘	rightdown
+↓	xia
+↓	down
+↙	zuo xia
+↙	leftdown
+←	zuo
+←	left
+↖	zuo shang
+↖	leftup
+‡	shuang jian
+†	jian
+×	cheng
+÷	chu
+≠	bu deng yu
+∝	zheng bi
+∥	ping xing
+∫	ji fen
+∵	yin wei
+∴	suo yi
+·	dian
+♀	nv
+♂	nan
+√	gen hao
+√	dui
+×	cuo
+♠	hei tao
+♥	hong tao
+♣	mei hua
+♦	fang pian
+°	du
+°	deg
+℃	she shi du
+℉	hua shi du
+‰	qian fen hao
+☂	san
+❀	hua
+✟	shi zi
