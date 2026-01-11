@@ -68,6 +68,13 @@ SOHO	soho
 「」	yh
 {}	dkh
 
+是	s
+不过	bug
+的	d
+了	l
+行	x
+有一说一	yysy
+
 氢	H	5
 Hydrogen	H	4
 1	H	3

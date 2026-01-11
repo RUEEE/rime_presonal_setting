@@ -5,6 +5,8 @@ customization:
   modified_time: "Sat Jan 10 20:38:20 2026"
   rime_version: 1.13.1
 patch:
+  show_notifications: false
+  show_notifications_time: 500
   style/color_scheme: mypreset
   style/inline_preedit : true
   style/layout:

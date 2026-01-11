@@ -17,6 +17,10 @@ patch:
       Shift_R: commit_code
       Control_L: noop
       Control_R: noop
+  punctuator/half_shape/+:
+    '/' : '、'
+    '{' : '{'
+    '}' : '}'
   key_binder:
     select_first_character: "Alt+Page_Up"
     select_last_character: "Alt+Page_Down"
@@ -25,7 +29,7 @@ patch:
       - { when: has_menu, accept: bracketleft, send: Page_Up }
       - { when: has_menu, accept: bracketright, send: Page_Down }
       
-      - { when: always, toggle: emoji, accept: Control+m }     # 切换emoji
+      - { when: has_menu, toggle: emoji, accept: Control+m }     # 切换emoji
       - { when: always, toggle: full_shape, accept: Shift+space }     # 切换全半角
       - { when: always, toggle: ascii_punct, accept: Control+period } # 切换中英标点
       
