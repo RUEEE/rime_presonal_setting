@@ -68,13 +68,39 @@ SOHO	soho
 「」	yh
 {}	dkh
 
-草	c
+
+我	w
+额	e
+有	y
+
 是	s
-不过	bug
 的	d
+好	h
+就	j
+可	k
 了	l
+
+这	z
 行	x
+草	c
+不	b
+你	n
+吗	m
+
+不过	bug
+然而	rane
+吧大概	badag
 有一说一	yysy
+反正	fanz
+可能	ken
+总之	zongz
+确实	ques
+首先	shoux
+其次	qic
+然后	ranh
+假如	jiar
+也许	yex
+因此	yinc
 
 氢	H	5
 Hydrogen	H	4

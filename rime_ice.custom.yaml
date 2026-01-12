@@ -19,7 +19,10 @@ patch:
   speller/algebra/+:
     - derive/ing$/in/
     - derive/in$/ing/
-  
+  reduce_english_filter:
+    mode: all
+    idx: 3
+
 __include: octagram   #启用语言模型
 octagram:
   __patch:
