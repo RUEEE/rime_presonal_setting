@@ -87,6 +87,13 @@ SOHO	soho
 你	n
 吗	m
 
+将	jiang
+对	dui
+
+个	ge
+各个	ge ge
+各个	geg
+
 不过	bug
 然而	rane
 吧大概	badag
@@ -101,6 +108,8 @@ SOHO	soho
 假如	jiar
 也许	yex
 因此	yinc
+现在	xianz
+这样	zhey
 
 氢	H	5
 Hydrogen	H	4
